@@ -1,5 +1,5 @@
 {
-  "name": "GroupChat",
+  "name": "GroupChat-React",
   "version": "1.0.0",
   "description": "",
   "main": "client/src/index.jsx",
@@ -17,7 +17,7 @@
     "type": "git",
     "url": "https://github.com/stardustdev/GroupChat-React.git"
   },
-  "author": "Alexei Gura",
+  "author": "stardustdev",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/stardustdev/GroupChat-React/issues"
