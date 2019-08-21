@@ -1,0 +1,20 @@
+{
+  "application": "GroupChat Server",
+  "port": 9001,
+  "env": "development",
+  "websocketsRestartCronTime": "0 */5 * * * *",
+  "db": {
+    "connection": "mongodb://localhost:27017/groupchat",
+    "options": {
+      "useNewUrlParser": true
+    }
+  },
+  "repos": {
+    "avatar": "D:/git/groupchat/client/public/assets/img/avatars"
+  },
+  "api": {
+    "host": "192.168.8.101",
+    "version": "v1",
+    "secure": true
+  }
+}
